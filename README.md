@@ -42,6 +42,9 @@ Reach me [LinkedIn](https://www.linkedin.com/in/robin-watson-074aa345/)
 
 ### Fun Fact
 - After not hitting the gym for more than a year, when I run it feels like I'm in the matrix...
+
+### Favorite blog post
+[Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
 <!--
 **Robinhoeh/Robinhoeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
