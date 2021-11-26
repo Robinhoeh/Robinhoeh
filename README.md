@@ -1,4 +1,4 @@
-## Hi there I'm Robin 🐤
+## Hey, I'm Robin 🐤
 
 #### I am a Front-End Developer based in Toronto, Canada. I'm especially interested in shipping well-tested, responsive web applications and websites while using the latest Front End technology available!
 
