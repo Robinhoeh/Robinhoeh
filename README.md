@@ -1,6 +1,6 @@
 ## Hey, I'm Robin 🐤
 
-#### I am a Front-End Developer based in Toronto, Canada. I'm especially interested in fintech, personal finance,  travelhacking, responsive web applications and websites while using the latest Front End technology available!
+#### I am a Front-End Developer based in southern Ontario, Canada. I'm especially interested in fintech, personal finance,  travelhacking, responsive web applications and websites while using the latest Front End technology available!
 
 ---
 
