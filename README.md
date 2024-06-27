@@ -1,16 +1,26 @@
 ## Hey, I'm Robin 🐤
 
-#### I am a Front-End Developer based in Toronto, Canada. I'm especially interested in shipping well-tested, responsive web applications and websites while using the latest Front End technology available!
+#### I am a Front-End Developer based in Toronto, Canada. I'm especially interested in fintech, personal finance,  travelhacking, responsive web applications and websites while using the latest Front End technology available!
 
 ---
 
 ### What I'm looking for in my new role:
 - [ ]  I  would like work on a team where pairing is encouraged for all levels
-- [ ]  Be part of a diverse team
+- [ ]  Diversity in every sense
 - [ ]  Highly communicative team that spreads positivity and knowledge
-- [ ]  Implements an agile workflow
+- [ ]  An agile workflow
 - [ ]  Relevant and latest tech(where needed)
+- [ ]  100% Remote 
 ## Work
+
+**Rivalry**
+
+- Refactored and implemented the entire Bet center, ensuring full responsiveness.
+- Integrated Xpoint SDK to detect user location in the browser, surfacing various UI components based on state.
+- Developed the Refer-a-friend feature with precise UI/UX, involving multi-step CSS animations and multiple states.
+- Onboarded new crypto providers to the payments flow, updating and fixing payments pages.
+- Built internal CRM tools in Nuxt 3, allowing non-technical employees to update and manipulate the user-facing site.
+- Consistently worked between Nuxt 2 and Nuxt 3 projects, providing support to new and seasoned developers.
 
 **Felix Health**
 
